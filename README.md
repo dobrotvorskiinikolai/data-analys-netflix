@@ -77,3 +77,9 @@
 ## 🛠 Инструменты
 - Google Таблицы
 - GitHub
+
+- ---
+
+## Ссылка на Google Sheet
+- https://docs.google.com/spreadsheets/d/1NANn-WwrbELitnfxFHc0_jIdFQPXAeSSwPLtrRigfTg/edit?usp=sharing
+
